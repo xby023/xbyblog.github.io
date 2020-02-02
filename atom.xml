@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://106.13.219.145</id>
+    <id>http://106.13.219.145/xbyblog</id>
     <title>XBY&apos;S BlOG</title>
-    <updated>2020-02-02T14:50:06.025Z</updated>
+    <updated>2020-02-02T14:52:43.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://106.13.219.145"/>
-    <link rel="self" href="http://106.13.219.145/atom.xml"/>
+    <link rel="alternate" href="http://106.13.219.145/xbyblog"/>
+    <link rel="self" href="http://106.13.219.145/xbyblog/atom.xml"/>
     <subtitle>一个学习分享博客，谢谢您的观看！</subtitle>
-    <logo>http://106.13.219.145/images/avatar.png</logo>
-    <icon>http://106.13.219.145/favicon.ico</icon>
+    <logo>http://106.13.219.145/xbyblog/images/avatar.png</logo>
+    <icon>http://106.13.219.145/xbyblog/favicon.ico</icon>
     <rights>All rights reserved 2020, XBY&apos;S BlOG</rights>
     <entry>
         <title type="html"><![CDATA[You Have Only One Life]]></title>
-        <id>http://106.13.219.145/post/you-have-only-one-life</id>
-        <link href="http://106.13.219.145/post/you-have-only-one-life">
+        <id>http://106.13.219.145/xbyblog/post/you-have-only-one-life</id>
+        <link href="http://106.13.219.145/xbyblog/post/you-have-only-one-life">
         </link>
         <updated>2020-02-02T14:26:21.000Z</updated>
         <summary type="html"><![CDATA[<p>There are moments in life when you miss someone so much that you just want to pick them from your dreams and hug them for real! Dream what you want to dream;go where you want to go;be what you want to be,because you have only one life and one chance to do all the things you want to do.</p>
